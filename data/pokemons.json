@@ -17,7 +17,7 @@
       "Defense": 49,
       "SpecialAttack": 65,
       "SpecialDefense": 65,
-      "Speed": 45
+      "Speed": 0
     },
     "image": "http://localhost:3000/assets/pokemons/1.png"
   },
@@ -106,28 +106,6 @@
       "Speed": 80
     },
     "image": "http://localhost:3000/assets/pokemons/5.png"
-  },
-  {
-    "id": 6,
-    "name": {
-      "english": "Charizard",
-      "japanese": "リザードン",
-      "chinese": "喷火龙",
-      "french": "Dracaufeu"
-    },
-    "type": [
-      "Fire",
-      "Flying"
-    ],
-    "base": {
-      "HP": 78,
-      "Attack": 84,
-      "Defense": 78,
-      "SpecialAttack": 109,
-      "SpecialDefense": 85,
-      "Speed": 100
-    },
-    "image": "http://localhost:3000/assets/pokemons/6.png"
   },
   {
     "id": 7,
@@ -965,28 +943,6 @@
       "Speed": 50
     },
     "image": "http://localhost:3000/assets/pokemons/45.png"
-  },
-  {
-    "id": 46,
-    "name": {
-      "english": "Paras",
-      "japanese": "パラス",
-      "chinese": "派拉斯",
-      "french": "Paras"
-    },
-    "type": [
-      "Bug",
-      "Grass"
-    ],
-    "base": {
-      "HP": 35,
-      "Attack": 70,
-      "Defense": 55,
-      "SpecialAttack": 45,
-      "SpecialDefense": 55,
-      "Speed": 25
-    },
-    "image": "http://localhost:3000/assets/pokemons/46.png"
   },
   {
     "id": 47,
@@ -3236,5 +3192,49 @@
       "Speed": 100
     },
     "image": "http://localhost:3000/assets/pokemons/151.png"
+  },
+  {
+    "id": 152,
+    "name": {
+      "english": "test",
+      "japanese": "test en japonais ",
+      "chinese": "test en chinois ",
+      "french": "test en français "
+    },
+    "type": [
+      "Dragon",
+      "Ground"
+    ],
+    "base": {
+      "HP": 10,
+      "Attack": 10,
+      "Defense": 10,
+      "SpecialAttack": 10,
+      "SpecialDefense": 10,
+      "Speed": 10
+    },
+    "image": "https://www.reddit.com/r/Berserk/comments/ojlqe0/guts_one_of_the_best_characters_of_all_time/?tl=fr"
+  },
+  {
+    "id": 153,
+    "name": {
+      "english": "guts",
+      "japanese": "guts",
+      "chinese": "guts",
+      "french": "guts"
+    },
+    "type": [
+      "Dragon",
+      "Dark"
+    ],
+    "base": {
+      "HP": 100,
+      "Attack": 200,
+      "Defense": 10,
+      "SpecialAttack": 10,
+      "SpecialDefense": 10,
+      "Speed": 10
+    },
+    "image": "https://preview.redd.it/hzhodmhyw0b71.jpg?width=640&crop=smart&auto=webp&s=c8d3ffda5058ddbd00b1d57bdc92926a300749cb"
   }
 ]
